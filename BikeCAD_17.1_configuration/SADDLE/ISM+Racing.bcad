@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Mon Feb 27 07:20:11 EST 2012</comment>
+<entry key="Saddle length">245.0</entry>
+<entry key="SADDLETIPtoMIDDLE">120.0</entry>
+<entry key="Saddle R">80.0</entry>
+<entry key="Saddle P">0.0</entry>
+<entry key="Saddle N">3.0</entry>
+<entry key="Saddle M">25.0</entry>
+<entry key="Saddle K">15.0</entry>
+<entry key="Saddle J">50.0</entry>
+<entry key="Saddle angle">-1.2</entry>
+<entry key="Saddle I">100.0</entry>
+<entry key="Saddle H">25.0</entry>
+<entry key="Saddle G">-10.0</entry>
+<entry key="Saddle F">60.0</entry>
+<entry key="Saddle E">40.0</entry>
+<entry key="Saddle D">32.0</entry>
+<entry key="Saddle C">-1.0</entry>
+<entry key="Saddle B">25.0</entry>
+<entry key="VersionSADDLE">7.11</entry>
+<entry key="SADDLE_REF_POINTY">0.0</entry>
+<entry key="SADDLE_REF_POINTX">0.0</entry>
+<entry key="Saddle ANGLE_SYMB">10.0</entry>
+<entry key="Saddle thickness">50.0</entry>
+</properties>

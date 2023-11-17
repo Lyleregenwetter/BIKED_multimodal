@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Sat Sep 03 23:15:06 PDT 2016</comment>
+<entry key="SEATPOSTA">30.0</entry>
+<entry key="DROPPER">true</entry>
+<entry key="Seatpost DIA3">36.0</entry>
+<entry key="Seatpost DIA2">25.0</entry>
+<entry key="Seatpost NUT">28.0</entry>
+<entry key="Seatpost RADIUS">0.0</entry>
+<entry key="Seatpost diameter">30.9</entry>
+<entry key="CLAMPC">28.0</entry>
+<entry key="Seatpost CAPPED">false</entry>
+<entry key="CLAMPB">40.0</entry>
+<entry key="Seatpost TRAVEL">150.0</entry>
+<entry key="Seatpost MAST">false</entry>
+<entry key="Seatpost LEN2">225.0</entry>
+<entry key="Seatpost CONSTANT">true</entry>
+<entry key="Seatpost AERO">false</entry>
+<entry key="VersionSEATPOST">13.0</entry>
+<entry key="Seatpost setback">0.0</entry>
+<entry key="Seatpost LENGTH">440.0</entry>
+<entry key="Seatpost CHORD">56.0</entry>
+<entry key="CLAMPSTYLE">2</entry>
+</properties>

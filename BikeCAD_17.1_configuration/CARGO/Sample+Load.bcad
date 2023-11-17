@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Mon Feb 27 23:05:15 EST 2012</comment>
+<entry key="CARGORAD">30.0</entry>
+<entry key="CARGOLENGTH">300.0</entry>
+<entry key="CARGOHEIGHT">200.0</entry>
+<entry key="VersionCARGO">8.0</entry>
+</properties>

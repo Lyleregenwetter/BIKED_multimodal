@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Thu Nov 02 01:30:07 EDT 2017</comment>
+<entry key="REARROTORANGLE_ONE">40.91</entry>
+<entry key="REARDiscTabIsPost">true</entry>
+<entry key="VersionREARDISCBRAKE">13.0</entry>
+<entry key="REARROTORZ">15.27</entry>
+<entry key="REARROTORFP">34.0</entry>
+<entry key="REARROTORLP">100.0</entry>
+<entry key="REARROTORDIA">140.0</entry>
+<entry key="REARDiscAdaptOnPost">false</entry>
+<entry key="REARROTORL">98.34</entry>
+<entry key="REARROTORK">74.17</entry>
+<entry key="REARROTORJ">55.89</entry>
+<entry key="REARROTORGP">72.29</entry>
+<entry key="REARCALPRY">17.0</entry>
+<entry key="REARROTORJP">70.0</entry>
+<entry key="REARCALPRX">15.0</entry>
+<entry key="REARROTORG">78.1</entry>
+<entry key="REARCALPRW">15.0</entry>
+<entry key="REARROTORF">51.0</entry>
+<entry key="REARCALPRV">30.39</entry>
+<entry key="REARROTORTHICK">1.75</entry>
+<entry key="REARROTORE">39.9</entry>
+<entry key="REARROTORANGLE_TWO">-6.14</entry>
+<entry key="REARROTORB">44.0</entry>
+<entry key="REARROTORA">15.8</entry>
+<entry key="REARCALPRANG">98.0</entry>
+<entry key="REARROTORANGLE_ONEP">0.0</entry>
+<entry key="REARROTORBOLTS">6</entry>
+<entry key="REARROTOREP">39.84</entry>
+<entry key="REARROTORANGLE_TWOP">0.0</entry>
+<entry key="REARROTORKP">74.17</entry>
+</properties>

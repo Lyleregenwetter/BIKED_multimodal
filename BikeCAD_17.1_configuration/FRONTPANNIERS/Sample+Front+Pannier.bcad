@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Mon Feb 27 23:07:45 EST 2012</comment>
+<entry key="FRONTPANNIERHEIGHT">300.0</entry>
+<entry key="FRONTPANNIERLENGTH">290.0</entry>
+<entry key="FRONTPANNIERLENBOT">250.0</entry>
+<entry key="FRONTPANNIERRAD">20.0</entry>
+<entry key="FRONTPANNIERLENTOP">260.0</entry>
+<entry key="VersionFRONTPANNIERS">8.0</entry>
+<entry key="FRONTPANNIERoffset">0.0</entry>
+<entry key="FRONTPANNIERYT">90.0</entry>
+<entry key="FRONTPANNIERoffsetTop">0.0</entry>
+</properties>

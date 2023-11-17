@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Tue Feb 07 21:00:57 EST 2012</comment>
+<entry key="FRONTRack RADS3">15.0</entry>
+<entry key="FRONTRack lip">96.0</entry>
+<entry key="FRONTRack RADS1">15.0</entry>
+<entry key="FRONTRack tubing">10.0</entry>
+<entry key="FRONTRack s3tx">0.0</entry>
+<entry key="FRONTRack s1bby">28.0</entry>
+<entry key="FRONTINCLUDE_HOOK3">true</entry>
+<entry key="FRONTRack RADH3">15.0</entry>
+<entry key="FRONTRack HOOK3">18.0</entry>
+<entry key="FRONTINCLUDE_HOOK1">true</entry>
+<entry key="FRONTRack height">290.0</entry>
+<entry key="FRONTRack RADH1">15.0</entry>
+<entry key="FRONTRack HOOK1">18.0</entry>
+<entry key="FRONTRack support">200.0</entry>
+<entry key="FRONTRack s3bby">28.0</entry>
+<entry key="FRONTRack s2tx">230.0</entry>
+<entry key="FRONTINCLUDE_STRUT3">true</entry>
+<entry key="VersionFRONTRACK">7.5</entry>
+<entry key="FRONTINCLUDE_STRUT1">false</entry>
+<entry key="FRONTRack angle">80.0</entry>
+<entry key="FRONTRack s1by">75.0</entry>
+<entry key="FRONTRack length">270.0</entry>
+<entry key="FRONTRack s3by">75.0</entry>
+<entry key="FRONTRack RAD">15.0</entry>
+<entry key="FRONTRack s1tx">250.0</entry>
+</properties>

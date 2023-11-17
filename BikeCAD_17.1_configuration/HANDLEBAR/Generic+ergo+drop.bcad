@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Thu Mar 11 10:45:16 EST 2010</comment>
+<entry key="Brake lever position">57</entry>
+<entry key="Mountain bar rise">10.0</entry>
+<entry key="Display Brake levers">true</entry>
+<entry key="Mountain bar sweep">16.4</entry>
+<entry key="HBARDIA">30.0</entry>
+<entry key="HBAREXTEND">29.0</entry>
+<entry key="Version">7.0</entry>
+<entry key="Hand position">3</entry>
+<entry key="Road bar drop">139.0</entry>
+<entry key="Bullhorn reach">150.0</entry>
+<entry key="MTNDROP">10.0</entry>
+<entry key="Bullhorn rise">50.0</entry>
+<entry key="HBARALPHA">25.0</entry>
+<entry key="Handlebar width">440.0</entry>
+<entry key="MTNGRIPDIA">35.0</entry>
+<entry key="TRACK_ERGO">0</entry>
+<entry key="Brake lever brand">CAMPAGNOLO</entry>
+<entry key="Road bar reach">87.0</entry>
+<entry key="HBARTHETA">68.0</entry>
+<entry key="BULLALPHA">20.0</entry>
+<entry key="Handlebar style">0</entry>
+<entry key="MTNDIA">25.4</entry>
+<entry key="HBARRAD2">40.0</entry>
+<entry key="Handlebar angle">15.0</entry>
+<entry key="HBARRAD1">50.0</entry>
+<entry key="BULLDIA">30.0</entry>
+<entry key="BULLRADIUS2">30.0</entry>
+<entry key="BULLRADIUS1">20.0</entry>
+<entry key="Bullhorn drop">10.0</entry>
+<entry key="BULLTHETA">40.0</entry>
+</properties>

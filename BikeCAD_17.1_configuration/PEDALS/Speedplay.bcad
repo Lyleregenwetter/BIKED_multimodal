@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Mon Aug 15 09:23:14 EST 2011</comment>
+<entry key="PEDAL_LENGTH">81.0</entry>
+<entry key="Pedal thickness">20.0</entry>
+<entry key="Pedal width">40.0</entry>
+<entry key="Pedal style">0</entry>
+<entry key="VersionPEDALS">7.11</entry>
+</properties>

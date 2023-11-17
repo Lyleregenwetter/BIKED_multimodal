@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Sat Mar 19 10:07:50 EDT 2011</comment>
+<entry key="FORK0K">378.0</entry>
+<entry key="FORK0J">20.0</entry>
+<entry key="FORK0H">20.0</entry>
+<entry key="FORK0G">40.0</entry>
+<entry key="FORK0F">70.0</entry>
+<entry key="FORK0E">60.0</entry>
+<entry key="FORK0D">35.0</entry>
+<entry key="FORK0C">3.0</entry>
+<entry key="FORK0B">35.0</entry>
+<entry key="FORK0A">100.0</entry>
+<entry key="FORK2W">40.0</entry>
+<entry key="Fork type">1</entry>
+<entry key="FORK2T">22.0</entry>
+<entry key="FORK2R">45.0</entry>
+<entry key="FORK2L">365.0</entry>
+<entry key="FORK2K">352.0</entry>
+<entry key="Fork travel">150.0</entry>
+<entry key="FORK2J">-20.0</entry>
+<entry key="FORK2H">35.0</entry>
+<entry key="FORK2G">24.0</entry>
+<entry key="Fork sag">20.0</entry>
+<entry key="FORK2F">70.0</entry>
+<entry key="FORK2E">10.0</entry>
+<entry key="FORK2D">22.0</entry>
+<entry key="SUSPENSION">true</entry>
+<entry key="FORK2C">10.0</entry>
+<entry key="FORK2B">35.0</entry>
+<entry key="FORK2A">50.0</entry>
+<entry key="Fork straight blade">false</entry>
+<entry key="FORK1W">40.0</entry>
+<entry key="FORK1T">40.0</entry>
+<entry key="VersionFORK">7.04</entry>
+<entry key="DUAL_CROWN">false</entry>
+<entry key="FORK1R">39.0</entry>
+<entry key="FORK1L">520.9</entry>
+<entry key="FORK1K">300.0</entry>
+<entry key="FORK1J">40.0</entry>
+<entry key="FORK1H">38.0</entry>
+<entry key="FORK1G">23.2</entry>
+<entry key="FORK1F">10.3</entry>
+<entry key="FORK1E">30.0</entry>
+<entry key="FORK1D">28.6</entry>
+<entry key="FORK1C">12.2</entry>
+<entry key="FORK1B">20.0</entry>
+<entry key="FORK1A">145.6</entry>
+<entry key="BEND_POSITION">30</entry>
+<entry key="FORK0W">40.0</entry>
+<entry key="FORK0T">20.0</entry>
+<entry key="FORK0R">45.0</entry>
+<entry key="FORK0L">403.0</entry>
+</properties>

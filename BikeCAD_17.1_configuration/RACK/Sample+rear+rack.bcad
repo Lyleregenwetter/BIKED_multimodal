@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Tue Feb 07 21:01:13 EST 2012</comment>
+<entry key="Rack s2tx">170.0</entry>
+<entry key="Rack RAD">15.0</entry>
+<entry key="Rack lip">56.0</entry>
+<entry key="Rack angle">70.0</entry>
+<entry key="Rack s1by">75.0</entry>
+<entry key="Rack length">330.0</entry>
+<entry key="Rack RADS3">15.0</entry>
+<entry key="Rack s3by">75.0</entry>
+<entry key="Rack RADS1">15.0</entry>
+<entry key="Rack s1tx">0.0</entry>
+<entry key="INCLUDE_STRUT3">true</entry>
+<entry key="Rack tubing">10.0</entry>
+<entry key="INCLUDE_STRUT1">true</entry>
+<entry key="Rack s1bby">28.0</entry>
+<entry key="Rack s3tx">300.0</entry>
+<entry key="INCLUDE_HOOK3">true</entry>
+<entry key="Rack RADH3">15.0</entry>
+<entry key="INCLUDE_HOOK1">true</entry>
+<entry key="Rack HOOK3">18.0</entry>
+<entry key="Rack RADH1">15.0</entry>
+<entry key="Rack HOOK1">18.0</entry>
+<entry key="Rack height">350.0</entry>
+<entry key="VersionRACK">7.5</entry>
+<entry key="Rack support">170.0</entry>
+<entry key="Rack s3bby">28.0</entry>
+</properties>

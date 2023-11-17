@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Fri Feb 18 12:05:45 EST 2011</comment>
+<entry key="Upper stack height">8.0</entry>
+<entry key="Lower stack height">4.0</entry>
+<entry key="HEADSETprofile">1</entry>
+<entry key="VersionHEADSET">7.0</entry>
+</properties>

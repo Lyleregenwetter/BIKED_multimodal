@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Tue May 28 15:41:19 EDT 2013</comment>
+<entry key="CassA">5.0</entry>
+<entry key="VersionSPROCKETS">9.17</entry>
+<entry key="CassT">2.0</entry>
+<entry key="Number of cogs">6</entry>
+<entry key="Teeth on cog 10">25</entry>
+<entry key="Teeth on cog 9">23</entry>
+<entry key="Teeth on cog 8">34</entry>
+<entry key="Teeth on cog 7">34</entry>
+<entry key="Teeth on cog 6">28</entry>
+<entry key="Teeth on cog 5">24</entry>
+<entry key="Teeth on cog 4">21</entry>
+<entry key="Teeth on cog 3">18</entry>
+<entry key="Teeth on cog 2">15</entry>
+<entry key="Teeth on cog 1">13</entry>
+<entry key="Teeth on cog 0">11</entry>
+</properties>

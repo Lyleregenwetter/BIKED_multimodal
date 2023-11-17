@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Fri Feb 01 15:25:55 EST 2013</comment>
+<entry key="SPIDER_ARM_PHASE_SHIFT">0</entry>
+<entry key="CRANK_SPIDER">4</entry>
+<entry key="Crank length">170.0</entry>
+<entry key="CHNG_SPACING">8.0</entry>
+<entry key="Crank Q factor">140.0</entry>
+<entry key="CHNG_CRNK_CLEAR">5.0</entry>
+<entry key="Crank thickness">14.0</entry>
+<entry key="Crank width at BB">40.0</entry>
+<entry key="Crank width at pedals">30.0</entry>
+<entry key="Number of chainrings">1</entry>
+<entry key="CHNG_THICK">3.0</entry>
+<entry key="SPIDER_ARM_WIDTH">20.0</entry>
+<entry key="VersionCRANKS">9.15</entry>
+<entry key="SPIDER_DIAMETER">130.0</entry>
+<entry key="Teeth on chainring 2">24</entry>
+<entry key="Teeth on chainring 1">28</entry>
+<entry key="Teeth on chainring 0">39</entry>
+</properties>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Fri Feb 24 22:57:43 EST 2012</comment>
+<entry key="REPEAT_INDEFINITELY">true</entry>
+<entry key="DELAY">0.1</entry>
+<entry key="REPEAT_CYCLE">0.5</entry>
+<entry key="REPEAT">3</entry>
+<entry key="BOUNDS2">55</entry>
+<entry key="FRAMES_PER_ROTATION">36</entry>
+<entry key="ANIMATE_IN_PLACE">true</entry>
+<entry key="CRANK_ROTATIONS">1</entry>
+</properties>

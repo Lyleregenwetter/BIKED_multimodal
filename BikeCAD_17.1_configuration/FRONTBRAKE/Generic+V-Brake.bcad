@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Thu Feb 23 09:40:56 EST 2012</comment>
+<entry key="FRONTBRAKEL">106.0</entry>
+<entry key="FRONTBRAKEPL">60.0</entry>
+<entry key="FRONTBRAKEPH">13.0</entry>
+<entry key="FRONTbrakeBW">30.0</entry>
+<entry key="FRONTBRAKEBX">25.0</entry>
+<entry key="FRONTBRAKED">18.0</entry>
+<entry key="FRONTBRAKEPY">29.0</entry>
+<entry key="FRONTBRAKEPX">21.0</entry>
+<entry key="FRONTbrake kind">1</entry>
+<entry key="FRONTbrakeAW">8.0</entry>
+<entry key="VersionFRONTBRAKE">8.0</entry>
+<entry key="FRONTBRAKEAX">4.0</entry>
+</properties>

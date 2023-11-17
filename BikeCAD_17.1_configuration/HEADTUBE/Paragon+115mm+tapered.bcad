@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Tue Jul 08 15:42:39 EDT 2014</comment>
+<entry key="Head tube diameter">41.3</entry>
+<entry key="Head tube d">38.1</entry>
+<entry key="Head tube chord">60.0</entry>
+<entry key="Head tube E">13.8</entry>
+<entry key="Head tube D">50.0</entry>
+<entry key="Head tube type">3</entry>
+<entry key="VersionHEADTUBE">11.4</entry>
+<entry key="Head tube C">7.7</entry>
+<entry key="Head tube B">87.4</entry>
+<entry key="Head tube A">5.0</entry>
+</properties>

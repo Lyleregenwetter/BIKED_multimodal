@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Sun Jul 07 16:09:35 EDT 2013</comment>
+<entry key="SPOKE_HOLE_DIA front">2.4</entry>
+<entry key="Wheel width front">23.0</entry>
+<entry key="SPOKES front">3</entry>
+<entry key="SPOKE_DIA front">2.0</entry>
+<entry key="SPOKE_CIRC_DIA2 front">38.0</entry>
+<entry key="Rim depth rear">65.0</entry>
+<entry key="Hub flange dia2 front">50.0</entry>
+<entry key="CROSS_PATTERN2 rear">0</entry>
+<entry key="Wheel diameter rear">674.0</entry>
+<entry key="ERD rear">582.0</entry>
+<entry key="SPOKE_OFFSET front">0.0</entry>
+<entry key="Hub flange dia2 rear">50.0</entry>
+<entry key="BSD front">622.0</entry>
+<entry key="SPOKE_OFFSET rear">0.0</entry>
+<entry key="RIM_STYLE rear">SPOKED</entry>
+<entry key="SPOKE_DIA rear">2.0</entry>
+<entry key="SBLADER rear">30.0</entry>
+<entry key="CROSS_PATTERN front">0</entry>
+<entry key="Hub flange dia front">50.0</entry>
+<entry key="SPOKE_HOLE_DIA rear">2.4</entry>
+<entry key="TIREM rear">10.0</entry>
+<entry key="FLANGEDIST_DS rear">35.0</entry>
+<entry key="RIM_SIDEWALL front">6.0</entry>
+<entry key="SPOKE_CIRC_DIA2 rear">38.0</entry>
+<entry key="SPOKES composite front">1</entry>
+<entry key="ERD front">582.0</entry>
+<entry key="SBLADER front">30.0</entry>
+<entry key="SBLADEW front">80.0</entry>
+<entry key="Hub flange dia rear">50.0</entry>
+<entry key="FLANGEDIST_ND front">35.0</entry>
+<entry key="CROSS_PATTERN2 front">0</entry>
+<entry key="Rim depth front">65.0</entry>
+<entry key="SPOKE_CIRC_DIA front">38.0</entry>
+<entry key="Wheel width rear">23.0</entry>
+<entry key="FLANGEDIST_ND rear">35.0</entry>
+<entry key="RIM_STYLE front">SPOKED</entry>
+<entry key="FLANGEDIST_DS front">35.0</entry>
+<entry key="RIM_SIDEWALL rear">6.0</entry>
+<entry key="SPOKES composite rear">1</entry>
+<entry key="TIREM front">10.0</entry>
+<entry key="SPOKE_CIRC_DIA rear">38.0</entry>
+<entry key="SPOKE_PHASE_SHIFT rear">100</entry>
+<entry key="CROSS_PATTERN rear">0</entry>
+<entry key="SBLADEW rear">80.0</entry>
+<entry key="SPOKE_PHASE_SHIFT front">100</entry>
+<entry key="SPOKES rear">3</entry>
+<entry key="VersionWHEELS">9.9</entry>
+<entry key="Wheel diameter front">674.0</entry>
+<entry key="BSD rear">622.0</entry>
+<entry key="RIMMSW front">10.0</entry>
+<entry key="RIMMSW rear">10.0</entry>
+</properties>

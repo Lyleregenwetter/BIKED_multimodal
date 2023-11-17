@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Wed Feb 22 23:53:34 EST 2012</comment>
+<entry key="REARBRAKEPH">12.0</entry>
+<entry key="REARbrakeBW">15.0</entry>
+<entry key="REARBRAKEBX">28.0</entry>
+<entry key="REARBRAKEPY">43.0</entry>
+<entry key="REARBRAKEL">40.0</entry>
+<entry key="REARbrake kind">0</entry>
+<entry key="REARBRAKEPX">20.0</entry>
+<entry key="REARbrakeAW">8.0</entry>
+<entry key="VersionREARBRAKE">8.0</entry>
+<entry key="REARBRAKEAX">22.0</entry>
+<entry key="REARBRAKED">18.0</entry>
+<entry key="REARBRAKEPL">50.0</entry>
+</properties>

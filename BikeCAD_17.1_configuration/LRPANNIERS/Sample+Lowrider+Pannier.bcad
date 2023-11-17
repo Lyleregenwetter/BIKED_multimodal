@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Mon Feb 27 23:13:24 EST 2012</comment>
+<entry key="LRPANNIERRAD">20.0</entry>
+<entry key="LRPANNIERHEIGHT">330.0</entry>
+<entry key="VersionLRPANNIERS">8.0</entry>
+<entry key="LRPANNIERLENGTH">250.0</entry>
+<entry key="LRPANNIERoffsetTop">0.0</entry>
+<entry key="LRPANNIERLENBOT">180.0</entry>
+<entry key="LRPANNIERYT">120.0</entry>
+<entry key="LRPANNIERLENTOP">220.0</entry>
+<entry key="LRPANNIERoffset">-10.0</entry>
+</properties>

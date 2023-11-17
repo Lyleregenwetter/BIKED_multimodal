@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Thu Jan 24 15:29:06 EST 2013</comment>
+<entry key="FORK0K">352.0</entry>
+<entry key="FORK0J">18.0</entry>
+<entry key="FORK0H">20.0</entry>
+<entry key="FORK0G">35.0</entry>
+<entry key="FORK0F">70.0</entry>
+<entry key="FORK0E">60.0</entry>
+<entry key="FORK0D">45.0</entry>
+<entry key="FORK0C">0.0</entry>
+<entry key="FORK0B">45.0</entry>
+<entry key="FORK0A">73.0</entry>
+<entry key="FORK2W">40.0</entry>
+<entry key="Fork type">0</entry>
+<entry key="FORK2T">22.0</entry>
+<entry key="FORK2R">45.0</entry>
+<entry key="FORK2L">365.0</entry>
+<entry key="FORK2K">352.0</entry>
+<entry key="Fork travel">100.0</entry>
+<entry key="FORK2J">-20.0</entry>
+<entry key="FORK2H">35.0</entry>
+<entry key="FORK2G">24.0</entry>
+<entry key="Fork sag">20.0</entry>
+<entry key="FORK2F">70.0</entry>
+<entry key="FORK2E">10.0</entry>
+<entry key="FORK2D">22.0</entry>
+<entry key="SUSPENSION">true</entry>
+<entry key="FORK2C">10.0</entry>
+<entry key="FORK2B">35.0</entry>
+<entry key="FORK2A">50.0</entry>
+<entry key="Fork straight blade">true</entry>
+<entry key="FORK1W">40.0</entry>
+<entry key="Hole Angle">0.0</entry>
+<entry key="FORK1T">40.0</entry>
+<entry key="VersionFORK">9.15</entry>
+<entry key="DUAL_CROWN">false</entry>
+<entry key="FORK1R">45.0</entry>
+<entry key="ForkLengthMeasurement2">1</entry>
+<entry key="ForkLengthMeasurement1">1</entry>
+<entry key="ForkLengthMeasurement0">1</entry>
+<entry key="FORK1L">460.0</entry>
+<entry key="FORK1K">310.0</entry>
+<entry key="FORK1J">30.0</entry>
+<entry key="FORK1H">30.0</entry>
+<entry key="FORK1G">27.0</entry>
+<entry key="FORK1F">8.0</entry>
+<entry key="FORK1E">22.0</entry>
+<entry key="FORK1D">30.0</entry>
+<entry key="FORK1C">3.0</entry>
+<entry key="FORK1B">20.0</entry>
+<entry key="FORK1A">100.0</entry>
+<entry key="BEND_POSITION">0</entry>
+<entry key="FORK0W">40.0</entry>
+<entry key="FORK0T">20.0</entry>
+<entry key="FORK0R">50.0</entry>
+<entry key="FORK0L">375.0</entry>
+</properties>

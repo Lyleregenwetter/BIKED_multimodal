@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Tue Sep 17 13:42:32 EDT 2013</comment>
+<entry key="FRONTDiscTabIsPost">false</entry>
+<entry key="FRONTROTORL">98.42</entry>
+<entry key="FRONTROTORK">74.17</entry>
+<entry key="FRONTROTORJ">56.32</entry>
+<entry key="FRONTROTORG">87.32</entry>
+<entry key="FRONTROTORGP">98.47</entry>
+<entry key="FRONTROTORJP">0.0</entry>
+<entry key="FRONTROTORF">51.0</entry>
+<entry key="FRONTDiscAdaptOnPost">false</entry>
+<entry key="FRONTROTORE">49.74</entry>
+<entry key="FRONTROTORB">44.0</entry>
+<entry key="FRONTROTORA">15.8</entry>
+<entry key="FRONTROTORANGLE_TWO">-4.14</entry>
+<entry key="VersionFRONTDISCBRAKE">9.4</entry>
+<entry key="FRONTROTORDIA">160.0</entry>
+<entry key="FRONTROTOREP">56.31</entry>
+<entry key="FRONTROTORKP">0.0</entry>
+<entry key="FRONTROTORANGLE_ONEP">0.0</entry>
+<entry key="FRONTCALPRY">2.46</entry>
+<entry key="FRONTCALPRX">33.09</entry>
+<entry key="FRONTROTORTHICK">1.75</entry>
+<entry key="FRONTCALPRW">6.35</entry>
+<entry key="FRONTCALPRV">30.39</entry>
+<entry key="FRONTROTORANGLE_TWOP">0.0</entry>
+<entry key="FRONTROTORANGLE_ONE">0.0</entry>
+<entry key="FRONTROTORZ">10.16</entry>
+<entry key="FRONTROTORBOLTS">6</entry>
+<entry key="FRONTROTORFP">74.17</entry>
+<entry key="FRONTROTORLP">0.0</entry>
+</properties>

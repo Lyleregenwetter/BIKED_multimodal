@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Fri Oct 25 10:28:57 EDT 2019</comment>
+<entry key="Display Brake levers">true</entry>
+<entry key="MTNRISEANG">0.0</entry>
+<entry key="HBARRAD1">50.0</entry>
+<entry key="HBARTHETA">40.0</entry>
+<entry key="Handlebar style">0</entry>
+<entry key="Bullhorn reach">150.0</entry>
+<entry key="HBARDIA">30.0</entry>
+<entry key="HBARRAD2">120.0</entry>
+<entry key="Mountain bar sweep">16.4</entry>
+<entry key="Road bar reach">80.0</entry>
+<entry key="BULLDIA">30.0</entry>
+<entry key="Brake lever brand">SHIMANO_2012</entry>
+<entry key="Bullhorn drop">10.0</entry>
+<entry key="Bullhorn risy">0.0</entry>
+<entry key="HBARALPHA">10.0</entry>
+<entry key="MTB_BorY">0</entry>
+<entry key="MTNDIA">25.4</entry>
+<entry key="TRACK_ERGO">0</entry>
+<entry key="BULLRADIUS2">110.0</entry>
+<entry key="Bullhorn rise">50.0</entry>
+<entry key="BULLALPHA">20.0</entry>
+<entry key="BULLRADIUS1">20.0</entry>
+<entry key="ONEPIECE">false</entry>
+<entry key="VersionHANDLEBAR">15.0</entry>
+<entry key="Hand position">3</entry>
+<entry key="Handlebar angle">0.0</entry>
+<entry key="HBAREXTEND">60.0</entry>
+<entry key="HBARRISE">0.0</entry>
+<entry key="Bullhorn angle">10.0</entry>
+<entry key="Road bar drop">128.0</entry>
+<entry key="MTNDROP">-10.0</entry>
+<entry key="Handlebar width">440.0</entry>
+<entry key="BULLTHETA">40.0</entry>
+<entry key="Brake lever position">38</entry>
+<entry key="MTNGRIPDIA">35.0</entry>
+<entry key="Mountain bar rise">10.0</entry>
+<entry key="MtnBar angle">0.0</entry>
+</properties>

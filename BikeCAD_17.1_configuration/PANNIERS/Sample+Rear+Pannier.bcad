@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created on Mon Feb 27 23:04:52 EST 2012</comment>
+<entry key="PANNIERHEIGHT">340.0</entry>
+<entry key="PANNIERLENGTH">290.0</entry>
+<entry key="VersionPANNIERS">8.0</entry>
+<entry key="PANNIERRAD">20.0</entry>
+<entry key="PANNIERLENBOT">200.0</entry>
+<entry key="PANNIERLENTOP">260.0</entry>
+<entry key="PANNIERoffset">-20.0</entry>
+<entry key="PANNIERoffsetTop">0.0</entry>
+<entry key="PANNIERYT">100.0</entry>
+</properties>

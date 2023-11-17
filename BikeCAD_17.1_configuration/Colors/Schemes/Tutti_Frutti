@@ -1,0 +1,28 @@
+<?xml version = "1.0"?>
+<!DOCTYPE color_schemes [
+<!-- DTD for Standard color_scheme Definition -->
+<!ELEMENT color_schemes (color_scheme*)>
+<!ELEMENT color_scheme (#PCDATA)>
+<!ATTLIST color_scheme NAME CDATA #REQUIRED
+RED CDATA #IMPLIED
+GREEN CDATA #IMPLIED
+BLUE CDATA #IMPLIED
+TRANSPARENCY CDATA #IMPLIED
+OVERLAY_IMAGE CDATA #IMPLIED
+FILE CDATA #IMPLIED
+TILE CDATA #IMPLIED
+FIT_TO_WIDTH CDATA #IMPLIED
+FIT_TO_HEIGHT CDATA #IMPLIED
+MAINTAIN_ASPECT_RATIO CDATA #IMPLIED>
+]>
+<color_schemes>
+<color_scheme NAME="Black" RED="0.0" GREEN="0.0" BLUE="0.0" TRANSPARENCY="0.0" OVERLAY_IMAGE="false" FILE="apples.png" TILE="false" FIT_TO_WIDTH="false" FIT_TO_HEIGHT="false" MAINTAIN_ASPECT_RATIO="false" />
+<color_scheme NAME="White" RED="255.0" GREEN="255.0" BLUE="255.0" TRANSPARENCY="0.0" OVERLAY_IMAGE="false" FILE="apples.png" TILE="false" FIT_TO_WIDTH="false" FIT_TO_HEIGHT="false" MAINTAIN_ASPECT_RATIO="false" />
+<color_scheme NAME="Pink with daisies" RED="255.0" GREEN="102.0" BLUE="102.0" TRANSPARENCY="0.0" OVERLAY_IMAGE="true" FILE="daisy.png" TILE="true" FIT_TO_WIDTH="false" FIT_TO_HEIGHT="false" MAINTAIN_ASPECT_RATIO="true" />
+<color_scheme NAME="Blue banana" RED="90.0" GREEN="90.0" BLUE="255.0" TRANSPARENCY="0.0" OVERLAY_IMAGE="true" FILE="bananas.png" TILE="true" FIT_TO_WIDTH="false" FIT_TO_HEIGHT="false" MAINTAIN_ASPECT_RATIO="true" />
+<color_scheme NAME="Green apple" RED="0.0" GREEN="55.0" BLUE="0.0" TRANSPARENCY="0.0" OVERLAY_IMAGE="true" FILE="apples.png" TILE="true" FIT_TO_WIDTH="false" FIT_TO_HEIGHT="false" MAINTAIN_ASPECT_RATIO="true" />
+<color_scheme NAME="Yellow daisies" RED="255.0" GREEN="255.0" BLUE="0.0" TRANSPARENCY="0.0" OVERLAY_IMAGE="true" FILE="daisy.png" TILE="true" FIT_TO_WIDTH="false" FIT_TO_HEIGHT="false" MAINTAIN_ASPECT_RATIO="true" />
+<color_scheme NAME="Blue pineapple" RED="90.0" GREEN="90.0" BLUE="255.0" TRANSPARENCY="0.0" OVERLAY_IMAGE="true" FILE="pineapples.png" TILE="true" FIT_TO_WIDTH="false" FIT_TO_HEIGHT="false" MAINTAIN_ASPECT_RATIO="true" />
+<color_scheme NAME="Orange banana" RED="204.0" GREEN="51.0" BLUE="0.0" TRANSPARENCY="0.0" OVERLAY_IMAGE="true" FILE="bananas.png" TILE="true" FIT_TO_WIDTH="false" FIT_TO_HEIGHT="false" MAINTAIN_ASPECT_RATIO="true" />
+<color_scheme NAME="Orange pineapple" RED="204.0" GREEN="51.0" BLUE="0.0" TRANSPARENCY="0.0" OVERLAY_IMAGE="true" FILE="pineapples.png" TILE="true" FIT_TO_WIDTH="false" FIT_TO_HEIGHT="false" MAINTAIN_ASPECT_RATIO="true" />
+</color_schemes>
