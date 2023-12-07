@@ -25,6 +25,10 @@ CHAINSTAYbrdgdia1,float64
 SEATSTAYbrdgCheck,bool
 CHAINSTAYbrdgCheck,bool
 Dropout spacing,float64
+Wall thickness Bottom Bracket,int64
+Wall thickness Top tube,float64
+Wall thickness Head tube,float64
+Wall thickness Down tube,float64
 Wall thickness Chain stay,float64
 Wall thickness Seat stay,float64
 Wall thickness Seat tube,float64
@@ -54,18 +58,40 @@ Saddle length,float64
 Saddle height,float64
 Down tube diameter,float64
 Seatpost LENGTH,int64
+MATERIAL OHCLASS: ALUMINIUM,bool
 MATERIAL OHCLASS: BAMBOO,bool
+MATERIAL OHCLASS: CARBON,bool
+MATERIAL OHCLASS: OTHER,bool
 MATERIAL OHCLASS: STEEL,bool
+MATERIAL OHCLASS: TITANIUM,bool
+Dropout spacing style OHCLASS: 0,bool
+Dropout spacing style OHCLASS: 1,bool
 Dropout spacing style OHCLASS: 2,bool
+Dropout spacing style OHCLASS: 3,bool
 Fork type OHCLASS: 0,bool
 Fork type OHCLASS: 1,bool
+Fork type OHCLASS: 2,bool
 Stem kind OHCLASS: 0,bool
+Stem kind OHCLASS: 1,bool
+Stem kind OHCLASS: 2,bool
 Handlebar style OHCLASS: 0,bool
+Handlebar style OHCLASS: 1,bool
+Handlebar style OHCLASS: 2,bool
+Head tube type OHCLASS: 0,bool
 Head tube type OHCLASS: 1,bool
+Head tube type OHCLASS: 2,bool
+Head tube type OHCLASS: 3,bool
+Top tube type OHCLASS: 0,bool
 Top tube type OHCLASS: 1,bool
 bottle SEATTUBE0 show OHCLASS: False,bool
+bottle SEATTUBE0 show OHCLASS: True,bool
 bottle DOWNTUBE0 show OHCLASS: False,bool
+bottle DOWNTUBE0 show OHCLASS: True,bool
+BELTorCHAIN OHCLASS: 0,bool
 BELTorCHAIN OHCLASS: 1,bool
+RIM_STYLE front OHCLASS: DISC,bool
 RIM_STYLE front OHCLASS: SPOKED,bool
+RIM_STYLE front OHCLASS: TRISPOKE,bool
 RIM_STYLE rear OHCLASS: DISC,bool
 RIM_STYLE rear OHCLASS: SPOKED,bool
+RIM_STYLE rear OHCLASS: TRISPOKE,bool

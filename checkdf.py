@@ -39,7 +39,7 @@ def checkdf(df, genname, printcodes=0, intermediates=0):
        'Down tube diameter', 'Seatpost LENGTH']
         intersection = list(set(collist).intersection(set(list(df.columns))))
         subset = df[intersection]
-        if (subset < 0).any().any():
+        if (df.loc[1,:]<0).any():
             valid=0
             if printcodes==1:
                 print("Model " + str(i) + " has a negative value where it shouldnt")

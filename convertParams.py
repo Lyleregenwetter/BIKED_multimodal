@@ -86,7 +86,7 @@ def convert(df, dataset=""):
                 vals = df[column].values
                 df.drop(column, axis=1, inplace=True)
                 vals=vals+2**24
-                r = np.floor_divide(vals , 2**16)
+                r = np.floor_divide(np.mod(vals, 2**24) , 2**16)
                 g = np.floor_divide(np.mod(vals, 2**16) , 2**8)
                 b = np.mod(vals, 2**8)
                 df[column.replace("sRGB", "R_RGB")]=r

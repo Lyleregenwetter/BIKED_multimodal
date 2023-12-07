@@ -105,7 +105,7 @@ class TimeoutException(Exception):   # Custom exception class
 def timeout_handler(signum, frame):   # Custom signal handler
     raise TimeoutException
     
-signal.signal(signal.SIGALRM, timeout_handler)      
+# signal.signal(signal.SIGALRM, timeout_handler)      
 
 def svg_auxilary_function(inputs):
     i,flist = inputs
